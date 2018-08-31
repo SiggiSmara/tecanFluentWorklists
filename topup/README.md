@@ -11,3 +11,5 @@ id that correlates between the source and the desination.
 Also in some cases the aliquot in the destination surpassed or equalled the wanted final
 volume in which case nothing was to happen (no removal of liquid in the destination).
 
+And a sample tracking list was to be produced keeping track of source and destination 
+and how much volume was added.
