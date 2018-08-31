@@ -1,0 +1,8 @@
+Relies on pyinstaller, see here:
+https://mborgerson.com/creating-an-executable-from-a-python-script
+
+example, replace PythonDir and PythonScript.py with your
+actual setup and needs:
+
+c:\PythonDir\Scripts\pyinstaller.exe --onefile PythonScript.py
+

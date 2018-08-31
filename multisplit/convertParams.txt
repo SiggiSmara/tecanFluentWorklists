@@ -1,0 +1,2 @@
+"C:\ProgramData\Tecan\VisionX\Worklists\pd_split\rvols18-05-31_309.txt","1.5ml Eppendorf Tubes",1
+"C:\ProgramData\Tecan\VisionX\Worklists\pd_split\rvols18-05-31_309_121.txt","1.5ml Eppendorf Tubes",2
