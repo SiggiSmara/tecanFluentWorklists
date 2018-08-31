@@ -9,3 +9,6 @@ The reason for these scripts is that although the control software is also incre
 some of the features regarding variable volume dispensing in the software are not obviously ameanable
 to the tasks that we have solved here with worklists that then get loaded and executed on the Fluent.
 
+## Basic structure
+Each folder within the repo contains a specific worklist type that was needed. There is a separate README
+there that explains a bit further what the main objective to be accomplished was in each instance.
